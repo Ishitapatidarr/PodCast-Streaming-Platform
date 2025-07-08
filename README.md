@@ -115,3 +115,16 @@ The React app will open in your browser at http://localhost:3000.
 
 You should now have the podcast streaming platform running locally!
 
+
+![image](https://github.com/user-attachments/assets/cfec8e9f-0bf5-4178-b397-5338f893fa27)
+
+
+
+
+![image](https://github.com/user-attachments/assets/625b7ee7-a951-4607-9647-a91837628cc2)
+
+
+![image](https://github.com/user-attachments/assets/a107d1f8-4f96-42ed-ae31-81afa2e1c514)
+
+
+
