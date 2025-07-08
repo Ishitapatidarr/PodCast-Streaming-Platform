@@ -126,5 +126,11 @@ You should now have the podcast streaming platform running locally!
 
 ![image](https://github.com/user-attachments/assets/a107d1f8-4f96-42ed-ae31-81afa2e1c514)
 
+![WhatsApp Image 2025-07-08 at 11 54 10_07fbc3cc](https://github.com/user-attachments/assets/ac51297b-5114-4205-be00-c387cf402b0c)
+
+![WhatsApp Image 2025-07-08 at 11 55 35_cf8b63ad](https://github.com/user-attachments/assets/7934ab9b-7570-4df0-a681-ea72f947bc94)
+
+
+
 
 
